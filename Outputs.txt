@@ -1,0 +1,24 @@
+Test Case 1: Multiple Misspellings
+Original: భారత్ ఒక మహాన దేసం. ఇక్కడ తెలుగు బాష మాట్లాడతారు.
+Corrected: భారత్ ఒక మహాన దేశం. ఇక్కడ తెలుగు భాష మాట్లాడతారు.
+Corrections: దేసం→దేశం, బాష→భాష
+
+Test Case 2: Single Word Error
+Original: రాముడు అతనికి సహాసయం చేసాడు.
+Corrected: రాముడు అతనికి సహాయం చేసాడు.
+Corrections: సహాసయం→సహాయం
+
+Test Case 3: Verb Misspelling
+Original: పుస్తకం చదువకునాడు.
+Corrected: పుస్తకం చదువుకున్నాడు.
+Corrections: చదువకునాడు→చదువుకున్నాడు
+
+Test Case 4: Adverb Correction
+Original: ఆమె పాటలు అందగా పాడింది.
+Corrected: ఆమె పాటలు అందంగా పాడింది.
+Corrections: అందగా→అందంగా
+
+Test Case 5: Multiple Errors
+Original: ప్రపంచంలో కంటెకన్నా కమ్యూనికేషన్ చాలా ముఖయం.
+Corrected: ప్రపంచంలో కంటే కమ్యూనికేషన్ చాలా ముఖ్యం.
+Corrections: కంటెకన్నా→కంటే, ముఖయం→ముఖ్యం
